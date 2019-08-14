@@ -1,5 +1,9 @@
 en:
   GRIDFIELD_BULK_UPLOAD:
+    FINISH_BTN_LABEL: Finish
+    CANCEL_BTN_LABEL: Cancel
+    CLEAR_ERROR_BTN_LABEL: Clear errors
+    EDIT_ALL_BTN_LABEL: Edit all
   GRIDFIELD_BULK_MANAGER:
     COMPONENT_TITLE: Modify one or more entry at a time.
     EDIT_SELECT_LABEL: Edit
@@ -7,9 +11,6 @@ en:
     DELETE_SELECT_LABEL: Delete
     ACTION_BTN_LABEL: Go
     SELECT_ALL_LABEL: Select all
-    PUBLISH_SELECT_LABEL: Publish
-    UNPUBLISH_SELECT_LABEL: UnPublish
-    ARCHIVE_SELECT_LABEL: Archive
   GRIDFIELD_BULKMANAGER_EDIT_HANDLER:
     HEADER_TEXT: Editing {count} {class}
     TOGGLE_ALL_LINK: Show/Hide all
