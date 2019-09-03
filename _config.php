@@ -1,4 +1,5 @@
 <?php
+
 //define global path to Components' root folder
 if (!defined('BULKEDITTOOLS_PATH')) {
     $folder = rtrim(basename(dirname(__FILE__)));
